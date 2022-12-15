@@ -9,7 +9,7 @@
 	<name>webapp.upload Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.2.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<jackson.version>2.10.1</jackson.version><!-- 声明jackson版本号 old 2.8.11 -->
 	</properties>
 	<dependencies>
